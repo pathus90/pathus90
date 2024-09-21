@@ -1,11 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is Mamadou Pathé DIALLO,
-I am software developer
+### I'm Mamadou Pathé DIALLO, a passionate Software Developer
 
-- 🔭 I’m currently working on JAVA, SPRING (CORE, WEB, BATCH, CLOUD), SPRINGBOOT, MICROSERVICES, JPA, HIBERNATE, JHIPSTER
-- 🌱 I’m currently learning REACT JS, AWS, KUBERNETES, DOCKER, TERRAFORM
-- 👯 I’m looking to collaborate on JAVA
-- 💬 Ask me about JAVA
-
-
+- 🔭 **Currently working with**: 
+  - **Java** and its ecosystem (Spring Core, Spring Web, Spring Batch, Spring Cloud, Spring Boot)
+  - **Microservices Architecture**
+  - **JPA**, **Hibernate**, and **JHipster** for building modern web applications
+  
+- 🌱 **Currently learning**:
+  - **React.js** for building dynamic UIs
+  - **Cloud & DevOps** tools: AWS, Kubernetes, Docker, Terraform
+  
+- 👯 **Looking to collaborate on**: 
+  - Java-based projects, particularly those involving Spring and Microservices
+  
+- 💬 **Feel free to ask me about**:
+  - Java, Spring framework, and building scalable backend systems
