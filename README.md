@@ -1,18 +1,45 @@
-# Hi there 👋
+# 👋 Hello, I'm Mamadou Pathé DIALLO
 
-### I'm Mamadou Pathé DIALLO, a passionate Software Developer
+## 💻 Software Developer | Backend Specialist | Java Enthusiast
 
-- 🔭 **Currently working with**: 
-  - **Java** and its ecosystem (Spring Core, Spring Web, Spring Batch, Spring Cloud, Spring Boot)
-  - **Microservices Architecture**
-  - **JPA**, **Hibernate**, and **JHipster** for building modern web applications
-  
-- 🌱 **Currently learning**:
-  - **React.js** for building dynamic UIs
-  - **Cloud & DevOps** tools: AWS, Kubernetes, Docker, Terraform
-  
-- 👯 **Looking to collaborate on**: 
-  - Java-based projects, particularly those involving Spring and Microservices
-  
-- 💬 **Feel free to ask me about**:
-  - Java, Spring framework, and building scalable backend systems
+---
+
+### 🧠 What I Do
+
+- 🔧 **Backend Development**
+  - Java, Spring Boot, Spring Core, Spring Web, Spring Cloud, Spring Batch
+  - REST APIs, Microservices architecture
+  - JPA, Hibernate, JHipster
+
+- ☁️ **DevOps & Cloud Exploration**
+  - Docker, Kubernetes
+  - AWS fundamentals
+  - CI/CD, Terraform (basics)
+
+---
+
+### 🚀 What I’m Learning
+
+- 🧩 **Frontend Technologies**: React.js for modern and responsive user interfaces  
+- 🔐 **Infrastructure as Code** and container orchestration tools  
+- 📦 **Software scalability & distributed systems** principles
+
+---
+
+### 🤝 Let’s Collaborate
+
+I’m open to contributions or collaborations on:
+- 🧬 Java/Spring-based projects  
+- 🛠️ Microservices architecture & system design  
+- 💡 Developer tooling and productivity solutions
+
+---
+
+### 💬 Let’s Connect
+
+Feel free to reach out if you'd like to:
+- Talk about backend development
+- Exchange on Java & Spring best practices
+- Collaborate on interesting tech challenges
+
+---
