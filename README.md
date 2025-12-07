@@ -1,45 +1,45 @@
 # 👋 Hello, I'm Mamadou Pathé DIALLO
 
-## 💻 Software Developer | Backend Specialist | Java Enthusiast
+## 💻 Software Developer | Java Specialist | DevOps Practitioner
+
+> *Passionate about scalable backends, clean mobile architecture, and GitOps-driven infrastructure.*
 
 ---
 
-### 🧠 What I Do
+### 🧠 Technology Stack
 
-- 🔧 **Backend Development**
-  - Java, Spring Boot, Spring Core, Spring Web, Spring Cloud, Spring Batch
-  - REST APIs, Microservices architecture
-  - JPA, Hibernate, JHipster
-
-- ☁️ **DevOps & Cloud Exploration**
-  - Docker, Kubernetes
-  - AWS fundamentals
-  - CI/CD, Terraform (basics)
-
----
-
-### 🚀 What I’m Learning
-
-- 🧩 **Frontend Technologies**: React.js for modern and responsive user interfaces  
-- 🔐 **Infrastructure as Code** and container orchestration tools  
-- 📦 **Software scalability & distributed systems** principles
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Java, Python, Dart, JavaScript |
+| **Backend** | Spring Boot, Spring Cloud, JPA/Hibernate, REST, Microservices |
+| **Mobile** | Flutter, BLoC Pattern (Clean Architecture) |
+| **DevOps & Infra** | Kubernetes, Docker, GitLab CI, AWS |
+| **GitOps Tools** | Kustomize, Helm Charts, ArgoCD (Interests) |
+| **Observability** | Grafana, Loki, Promtail (The PLG Stack) |
 
 ---
 
-### 🤝 Let’s Collaborate
+### 🚀 Current Focus & Learning
 
-I’m open to contributions or collaborations on:
-- 🧬 Java/Spring-based projects  
-- 🛠️ Microservices architecture & system design  
-- 💡 Developer tooling and productivity solutions
+* **🤖 Exploring MCP:** Diving into the **Model Context Protocol** to enhance AI context integration.
+* **☸️ Kubernetes Mastery:** Deepening expertise in **Helm** and **Kustomize** to manage complex deployments.
+* **👁️ Monitoring:** Implementing robust logging and visualization pipelines using **Grafana and Loki**.
+* **🔐 Infrastructure as Code:** Automating infrastructure provisioning and configuration.
+
+---
+
+### 🤝 What I Can Do For You / Collaboration
+
+I can help or collaborate on:
+1.  **Full-Stack Features:** From a Spring Boot backend to a Flutter mobile UI.
+2.  **CI/CD Pipelines:** Building reliable **GitLab CI** pipelines.
+3.  **Deployment Strategies:** Writing maintainable **Helm charts** and **Kustomize** configurations.
+4.  **System Health:** Setting up dashboards in **Grafana** to monitor logs and metrics.
 
 ---
 
-### 💬 Let’s Connect
+### 💬 Contact Me
 
-Feel free to reach out if you'd like to:
-- Talk about backend development
-- Exchange on Java & Spring best practices
-- Collaborate on interesting tech challenges
+Let's discuss Java performance, Kubernetes orchestration, or the future of MCP!
 
----
+- 📧 [Email Me](mailto:diallo.mamadoup@gmail.com)
